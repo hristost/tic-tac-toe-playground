@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Noughts and crosses</string>
+	<key>Pages</key>
+	<array>
+		<string>intro.playgroundpage</string>
+		<string>random.playgroundpage</string>
+		<string>strategy.playgroundpage</string>
+		<string>minmax.playgroundpage</string>
+		<string>final.playgroundpage</string>
+	</array>
+</dict>
+</plist>
