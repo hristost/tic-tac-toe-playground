@@ -4,7 +4,7 @@ This is a Swift playground book that introduces the min-max algorithm. I created
 ![Screenshot](https://raw.githubusercontent.com/hristost/tic-tac-toe-playground/master/screenshot.PNG)
 ## Using the playground ##
 
-* Send the pre-compiled `tictactoe.playgroundbook` to your iPad.
+* Open the pre-built `tictactoe.playgroundbook` using [Swift Playgrounds on Mac](https://apps.apple.com/us/app/swift-playgrounds/id1496833156?mt=12) or [Swift Playgrounds on iPad](https://apps.apple.com/us/app/swift-playgrounds/id908519492).
 * Alternatively, build the playground book from source by opening with Xcode and building the `PlaygroundBook` target, which will produce your playground book as a product. (You can access it by opening the “Products” group in the Project navigator, and then right-clicking and selecting “Show in Finder”. From there, you can use AirDrop or other methods to copy the playground book to an iPad running Swift Playgrounds.)
 
 ## Notes
